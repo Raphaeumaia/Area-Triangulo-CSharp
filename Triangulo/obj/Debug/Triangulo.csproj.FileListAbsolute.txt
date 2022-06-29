@@ -1,0 +1,11 @@
+C:\Users\raphael.cfmaia\Documents\UC12\Triangulo\Triangulo\bin\Debug\Triangulo.exe.config
+C:\Users\raphael.cfmaia\Documents\UC12\Triangulo\Triangulo\bin\Debug\Triangulo.exe
+C:\Users\raphael.cfmaia\Documents\UC12\Triangulo\Triangulo\bin\Debug\Triangulo.pdb
+C:\Users\raphael.cfmaia\Documents\UC12\Triangulo\Triangulo\obj\Debug\Triangulo.csproj.AssemblyReference.cache
+C:\Users\raphael.cfmaia\Documents\UC12\Triangulo\Triangulo\obj\Debug\Triangulo.csproj.SuggestedBindingRedirects.cache
+C:\Users\raphael.cfmaia\Documents\UC12\Triangulo\Triangulo\obj\Debug\Triangulo.Form1.resources
+C:\Users\raphael.cfmaia\Documents\UC12\Triangulo\Triangulo\obj\Debug\Triangulo.Properties.Resources.resources
+C:\Users\raphael.cfmaia\Documents\UC12\Triangulo\Triangulo\obj\Debug\Triangulo.csproj.GenerateResource.cache
+C:\Users\raphael.cfmaia\Documents\UC12\Triangulo\Triangulo\obj\Debug\Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\raphael.cfmaia\Documents\UC12\Triangulo\Triangulo\obj\Debug\Triangulo.exe
+C:\Users\raphael.cfmaia\Documents\UC12\Triangulo\Triangulo\obj\Debug\Triangulo.pdb
